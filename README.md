@@ -1,4 +1,4 @@
-# snowyCampusDocument
+# tooCoolForSchool
 
 These are all of the videos and documents that our team used in Spring 2021 to help guide in the building of our game: 
 
