@@ -56,3 +56,7 @@ https://www.youtube.com/watch?v=11ofnLOE8pw
 
 https://www.youtube.com/watch?v=rhoQd6IAtDo
 
+https://docs.unity3d.com/Manual/ScriptingImportantClasses.html
+
+https://youtu.be/pwZpJzpE2lQ
+
