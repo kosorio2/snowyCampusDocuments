@@ -1,5 +1,17 @@
 # tooCoolForSchool
 
+Link to play the game: 
+https://we.tl/t-a4zZgbo0VF
+
+Instructions to play the game: 
+
+1. Click on the link
+2. Once its downloaded, open the game folder
+3. Click on the 'Too Cool For School executable file'
+4. Click the start button on the main menu 
+
+
+
 These are all of the videos and documents that our team used in Spring 2021 to help guide in the building of our game: 
 
 https://www.youtube.com/watch?v=eRMDdDekN2Q
